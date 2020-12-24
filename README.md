@@ -1,6 +1,6 @@
 ### Developer
 
-Hopefully creative, but always have fun with `go`, `typescript`, `javascript`. 
+Hopefully creative, but always having fun with `go`, `typescript`, `javascript`. 
 
 ### Operator
 
